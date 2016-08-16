@@ -1,4 +1,21 @@
 # Dragon-Linux (working title)
-A Linux distribution all of its own. There was a Dragonlinux, that we are not a part of.
+Created by Chris Burkhardt
 
-Currently in alpha stage in barebones... see issues to see where the system is att
+Current Version 0.0.1-palpha - Not Avialable to download at this time due to stability issues
+
+===========================
+Version 0.0.1-palpha
+===========================
+
+-Operating system bare-bones created from scratch
+
+-Working name added
+
+-Currently in pre-alpha stage in barebones... see current status look on Issues
+
+-The operating system is not yet functional enough to distribute due to the major errors discovered on after the first build. The Kernel required a full ground up repair. 
+
+
+
+
+
